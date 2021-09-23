@@ -1,0 +1,35 @@
+/* body {
+    background-color: #eee;
+} */
+
+#map {
+    width: 400px;
+    height: 400px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.graticule {
+    fill: none;
+    stroke: #000000;
+    stroke-width: 1px;
+}
+
+/* .globe {
+    fill: #FFFFFF;
+} */
+
+/* .star {
+    fill: #fff;
+    fill-opacity: 0.9;
+} */
+
+/* .overlay {
+    fill: #FFFFFF;
+    fill-opacity: 0.5;
+} */
